@@ -6,4 +6,6 @@ seaborn
 scikit-learn
 pytz
 ipykernel
+catboost
+xgboost
 # -e .
